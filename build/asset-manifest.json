@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/try_like_softspray_website/static/css/main.ace1595c.chunk.css",
+    "main.js": "/try_like_softspray_website/static/js/main.36df5b44.chunk.js",
+    "main.js.map": "/try_like_softspray_website/static/js/main.36df5b44.chunk.js.map",
+    "runtime-main.js": "/try_like_softspray_website/static/js/runtime-main.6b23d63d.js",
+    "runtime-main.js.map": "/try_like_softspray_website/static/js/runtime-main.6b23d63d.js.map",
+    "static/js/2.e3b23b6f.chunk.js": "/try_like_softspray_website/static/js/2.e3b23b6f.chunk.js",
+    "static/js/2.e3b23b6f.chunk.js.map": "/try_like_softspray_website/static/js/2.e3b23b6f.chunk.js.map",
+    "static/js/3.e03f03a7.chunk.js": "/try_like_softspray_website/static/js/3.e03f03a7.chunk.js",
+    "static/js/3.e03f03a7.chunk.js.map": "/try_like_softspray_website/static/js/3.e03f03a7.chunk.js.map",
+    "index.html": "/try_like_softspray_website/index.html",
+    "static/css/main.ace1595c.chunk.css.map": "/try_like_softspray_website/static/css/main.ace1595c.chunk.css.map",
+    "static/js/2.e3b23b6f.chunk.js.LICENSE.txt": "/try_like_softspray_website/static/js/2.e3b23b6f.chunk.js.LICENSE.txt",
+    "static/media/SoftSpray.css": "/try_like_softspray_website/static/media/website.caaedb40.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b23d63d.js",
+    "static/js/2.e3b23b6f.chunk.js",
+    "static/css/main.ace1595c.chunk.css",
+    "static/js/main.36df5b44.chunk.js"
+  ]
+}
